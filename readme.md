@@ -6,3 +6,6 @@
 ## e.g.   
 <code>gitignr -n visualstudio</code>  
 This generates a file named .gitignore in the current directory with the content of the gitignore file compatible to visual studio.
+
+
+### the gitignore files have been downloaded from https://github.com/github/gitignore
