@@ -1,0 +1,30 @@
+{
+  "name": "gitignr",
+  "version": "1.1.0",
+  "description": "commandline to generate the gitignorefiles\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "gitignr": "index.js"
+  },
+  "author": "Chandan Gupta Bhagat",
+  "license": "ISC",
+  "dependencies": {
+    "pkginfo": "^0.4.1",
+    "yargs": "13.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thechandanbhagat/gitignr.git"
+  },
+  "keywords": [
+    "gitignore"
+  ],
+  "bugs": {
+    "url": "https://github.com/thechandanbhagat/gitignr/issues"
+  },
+  "homepage": "https://github.com/thechandanbhagat/gitignr#readme"
+}
