@@ -1,6 +1,6 @@
 {
   "name": "gitignr",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "commandline to generate the gitignorefiles\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D ",
   "main": "index.js",
   "scripts": {
