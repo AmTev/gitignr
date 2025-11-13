@@ -4,11 +4,11 @@ A lightweight command-line tool to quickly generate `.gitignore` files for your 
 
 ## Features
 
-- 🚀 Fast and simple - generate `.gitignore` files with a single command
-- 📦 296+ pre-configured templates for various languages and frameworks
-- ✅ Comprehensive error handling and input validation
-- 🔒 Secure - protects against path traversal attacks
-- 💾 Automatic file creation in current directory
+- Fast and simple - generate `.gitignore` files with a single command
+- 296+ pre-configured templates for various languages and frameworks
+- Comprehensive error handling and input validation
+- Secure - protects against path traversal attacks
+- Automatic file creation in current directory
 
 ## Installation
 
